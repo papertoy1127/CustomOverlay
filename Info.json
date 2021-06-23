@@ -1,0 +1,8 @@
+﻿{
+  "Id": "CustomOverlay",
+  "DisplayName": "Custom Overlay",
+  "Author": "PERIOT",
+  "Version": "$Version",
+  "AssemblyName": "CustomOverlay.dll",
+  "EntryMethod": "CustomOverlay.Startup.Load"
+}
